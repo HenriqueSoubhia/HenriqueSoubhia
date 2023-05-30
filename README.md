@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou trabalhando em melhorar minhas habilidades<br>🤝 Se precisar de ajuda é só chamar <br>🌱 Estou aprendo SASS<br>⚡ Fun fact : Bronze 3 no valorant
+🔭 Estou trabalhando em melhorar minhas habilidades<br>🤝 Se precisar de ajuda é só chamar <br>🌱 Estou aprendo c++<br>⚡ Fun fact : Bronze 3 no valorant
 
 
 ## 🌐 Socials:
