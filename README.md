@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou trabalhando em melhorar minhas habilidades<br>🤝 Se precisar de ajuda é só chamar <br>🌱 Estou aprendo c++<br>⚡ Fun fact : Bronze 2 no valorant
+🔭 Estou trabalhando em melhorar minhas habilidades<br>🤝 Se precisar de ajuda é só chamar <br>🌱 Estou aprendo c++<br>⚡ Fun fact : Prata 1 no valorant
 
 
 ## 🌐 Socials:
