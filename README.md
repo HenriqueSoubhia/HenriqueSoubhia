@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriquesoubhia&label=Profile%20views&color=0e75b6&style=flat" alt="henriquesoubhia" /> </p>
 
-- 🔭 I’m currently working on **DevStew - ExpressJS/React**
-
-- 🌱 I’m currently learning **React, ExpressJS, ReduxJS**
+- 🌱 I’m currently learning **React, ExpressJS, ReactQuery**
 
 - 👨‍💻 Take a look [https://henriquesoubhia.github.io/portifolio/](https://henriquesoubhia.github.io/portifolio/)
 
