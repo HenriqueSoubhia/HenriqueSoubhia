@@ -1,3 +1,15 @@
+<h1 align="center">Bem vindo! 😉</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">Eu sou Henrique Soubhia<br><br>- 🔭 Tenho trabalhado em projetos NextJs <br>- 📚 Estou estudando aplicações fullstacks<br>- ⚡ No tempo livre gosto de aprender novas tecnologias</p>
+
+###
+
 <div align="center">
   <img height="250" src="https://i.pinimg.com/originals/be/0d/3c/be0d3cee4e91ed0d54b72d9080b5c4e5.gif" />
 </div>
@@ -20,18 +32,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueSoubhia.HenriqueSoubhia&"  />
 </div>
-
-###
-
-<h1 align="center">Bem vindo! 😉</h1>
-
-###
-
-<h3 align="left">👩‍💻  Sobre mim</h3>
-
-###
-
-<p align="left">Eu sou Henrique Soubhia<br><br>- 🔭 Tenho trabalhado em projetos NextJs <br>- 📚 Estou estudando aplicações fullstacks<br>- ⚡ No tempo livre gosto de aprender novas tecnologias</p>
 
 ###
 
