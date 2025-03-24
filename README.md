@@ -1,20 +1,18 @@
-# <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="48" height="48" /> Olá, eu sou Henrique Soubhia
+# 👋 Olá, eu sou Henrique Soubhia  
 
-Sou um **estudante de Engenharia de Software** apaixonado por resolver problemas usando as mais diversas tecnologias. Essa curiosidade me leva a aprender constantemente sobre diferentes áreas da computação.  
+Sou um **Engenheiro de Software em formação** apaixonado por resolver problemas através da tecnologia. Meu foco não está em uma stack específica, mas sim em criar **soluções eficientes** que impactam pessoas e negócios. Sempre busco entender como as coisas funcionam por trás dos panos e explorar novas maneiras de otimizar processos.  
 
-## <img src="https://github.com/images/mona-whisper.gif" width="48" height="48" /> Sobre mim  
-- 💡 Sempre explorando novas tecnologias e formas de automatizar processos.  
-- 💻 Tenho experiência com **desenvolvimento web fullstack** e **automação**.  
-- 🖥️ Atualmente estudando **sistemas operacionais** e infraestrutura.  
-- ⚙️ Gosto de entender como as coisas funcionam por trás dos panos.  
+## 🔍 Sobre mim  
+- 🚀 **Fascinado por tecnologia e inovação**, sempre buscando resolver desafios reais.  
+- 💡 Tenho experiência com **desenvolvimento fullstack** e **automação**, aplicando esses conhecimentos para criar soluções mais inteligentes e eficientes.  
+- 🛠️ Atualmente estudando **infraestrutura, sistemas operacionais e otimização de processos**.  
+- ⚙️ Gosto de aprender explorando, experimentando e resolvendo problemas do mundo real.  
 
-## <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/2699.gif" width="48" height="48" /> Tecnologias que utilizo  
-- **Linguagens:** JavaScript, Python, PowerShell, Bash  
-- **Web:** React, Node.js, Express, HTML, CSS, Tailwind
-- **Infraestrutura:** Linux, Banco de Dados  
-- **Automação:** PowerShell, Python, Scripts para otimização de processos  
+## 🛠️ Tecnologias que utilizo  
+- **Linguagens:** JavaScript, TypeScript, Python, PowerShell, Bash  
+- **Desenvolvimento Web:** React, Node.js, Express, HTML, CSS, Tailwind  
+- **Infraestrutura e Automação:** Linux, Banco de Dados, Scripts para automação e otimização de processos  
 
 ## 📫 Como me encontrar  
-📧 Email: soubhiahenrique0@gmail.com
-
-🔗 LinkedIn: [Henrique Soubhia](https://www.linkedin.com/in/henrique-soubhia/)
+📧 **Email:** soubhiahenrique0@gmail.com  
+🔗 **LinkedIn:** [Henrique Soubhia](https://www.linkedin.com/in/henrique-soubhia/)  
