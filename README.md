@@ -12,7 +12,7 @@
   ☂️​​ Atuando como: <b>Desenvolvedor Front-end e Automações & Scripts</b> 
   🎆 Interesses em: <b>Linguagens de Programação de Sistemas</b> 
   🔜 Focado em: <b>Arquitetura de Software** e Sistemas Operacionais</b> 
-  🎮 Hobbies: <b>Programação, Música, Jogos e Animes</b> 
+  🎮 Hobbies: <b>Programação, Música, Jogos e Anime</b> 
 </pre>
 
 <a href="https://henriquesoubhia.vercel.app/" target="_blank">
